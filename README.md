@@ -1,5 +1,5 @@
-# Bell
-A wirelessly controlled bell over MQTT.
+# Wirelessly Controlled Bell
+This bell is controlled over MQTT. Inside, there is a ESP-01s that drives the solenoid through a MOSFET.
 
 More info at: https://joszuijderwijk.nl/bell
 
